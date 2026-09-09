@@ -1,0 +1,19 @@
+MONGODB SETUP
+=============
+
+This version uses MongoDB + Mongoose.
+
+Local connection:
+mongodb://127.0.0.1:27017/agentic_event_management
+
+No MySQL and no XAMPP are required.
+
+Run:
+1. Start MongoDB.
+2. cd backend
+3. npm install
+4. copy .env.example .env
+5. npm run seed
+6. npm run dev
+
+Then open frontend/index.html.
