@@ -1,3 +1,3 @@
 window.APP_CONFIG = {
-  API_BASE: "http://localhost:5000/api"
+    API_BASE: "https://ai-event-agent-operation.vercel.app/api"
 };
